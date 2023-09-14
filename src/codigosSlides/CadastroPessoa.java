@@ -1,3 +1,5 @@
+package codigosSlides;
+
 public class CadastroPessoa {
     public static void main(String[] args) {
         String nome = "Eduarda";

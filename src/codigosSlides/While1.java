@@ -1,13 +1,11 @@
-public class While2 {
+package codigosSlides;
+
+public class While1 {
     public static void main(String[] args) {
         int contador = 0;
-        while (true){
-            if (contador < 5){
+        while (contador < 5){
             System.out.println(contador);
             contador++;
-        }else{
-            break;
         }
     }
-}
 }

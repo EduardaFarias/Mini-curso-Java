@@ -1,3 +1,5 @@
+package codigosSlides;
+
 import java.util.Scanner;
 
 public class Operadores {

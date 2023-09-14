@@ -1,3 +1,5 @@
+package codigosSlides;
+
 public class DeclarandoVariavel {
     public static void main(String[] args) {
         int numero1 = 2;

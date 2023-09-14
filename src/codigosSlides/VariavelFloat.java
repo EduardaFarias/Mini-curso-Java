@@ -1,3 +1,5 @@
+package codigosSlides;
+
 public class VariavelFloat {
     public static void main(String[] args) {
         double preco = 4.60;

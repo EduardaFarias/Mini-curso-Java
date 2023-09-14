@@ -1,3 +1,5 @@
+package codigosSlides;
+
 public class SaidasFormatadas {
     public static void main(String[] args) {
         double precoAbacate = 5.20;

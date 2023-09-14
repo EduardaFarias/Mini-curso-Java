@@ -1,3 +1,5 @@
+package codigosSlides;
+
 public class Comparacao {
 public static void main(String[] args) {
     int idade1 = 20;
